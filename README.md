@@ -4,5 +4,8 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![storypanda snake gif](https://github.com/storypanda/storypanda/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
